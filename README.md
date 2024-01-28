@@ -1,1 +1,1 @@
-Simple user interface where you simply enter the values a, b and c, derived from the quadratic equation ax^2 + bx + c. Using the formula (-b +- sqrt(b^2 - 4ac))/4a, a message "No Real Solutions" will appear if it seems like the sqrt < 0. 
+Simple user interface where you enter the values a, b and c, derived from the quadratic equation ax^2 + bx + c. Using the formula (-b +- sqrt(b^2 - 4ac))/4a, a message "No Real Solutions" will appear if it seems like the sqrt < 0. 
